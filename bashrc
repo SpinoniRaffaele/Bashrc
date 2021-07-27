@@ -112,7 +112,4 @@ neofetch
 
 alias cmatrix="cmatrix -B -r -s"
 alias files="xdg-open ."
-alias sshc="ssh ae38021@52.58.229.194" 
-alias sshc2="ssh ae38021@52.28.121.66"
-alias pipes="/home/raffaele/pipes.sh/pipes.sh -p 2 -t 2"
 
